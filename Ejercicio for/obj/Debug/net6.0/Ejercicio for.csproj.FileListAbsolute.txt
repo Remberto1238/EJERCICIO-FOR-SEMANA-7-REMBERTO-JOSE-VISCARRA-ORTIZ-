@@ -1,0 +1,15 @@
+C:\Users\Rember\Desktop\Ejercicio for\bin\Debug\net6.0\Ejercicio for.exe
+C:\Users\Rember\Desktop\Ejercicio for\bin\Debug\net6.0\Ejercicio for.deps.json
+C:\Users\Rember\Desktop\Ejercicio for\bin\Debug\net6.0\Ejercicio for.runtimeconfig.json
+C:\Users\Rember\Desktop\Ejercicio for\bin\Debug\net6.0\Ejercicio for.dll
+C:\Users\Rember\Desktop\Ejercicio for\bin\Debug\net6.0\Ejercicio for.pdb
+C:\Users\Rember\Desktop\Ejercicio for\obj\Debug\net6.0\Ejercicio for.csproj.AssemblyReference.cache
+C:\Users\Rember\Desktop\Ejercicio for\obj\Debug\net6.0\Ejercicio for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rember\Desktop\Ejercicio for\obj\Debug\net6.0\Ejercicio for.AssemblyInfoInputs.cache
+C:\Users\Rember\Desktop\Ejercicio for\obj\Debug\net6.0\Ejercicio for.AssemblyInfo.cs
+C:\Users\Rember\Desktop\Ejercicio for\obj\Debug\net6.0\Ejercicio for.csproj.CoreCompileInputs.cache
+C:\Users\Rember\Desktop\Ejercicio for\obj\Debug\net6.0\Ejercicio for.dll
+C:\Users\Rember\Desktop\Ejercicio for\obj\Debug\net6.0\refint\Ejercicio for.dll
+C:\Users\Rember\Desktop\Ejercicio for\obj\Debug\net6.0\Ejercicio for.pdb
+C:\Users\Rember\Desktop\Ejercicio for\obj\Debug\net6.0\Ejercicio for.genruntimeconfig.cache
+C:\Users\Rember\Desktop\Ejercicio for\obj\Debug\net6.0\ref\Ejercicio for.dll
